@@ -1,0 +1,11 @@
+{
+  "volto-ied-policy": {
+    "url": "git@github.com:eea/volto-ied-policy.git",
+    "https": "https://github.com/eea/volto-ied-policy.git",
+    "package": "@eeacms/volto-ied-policy",
+    "branch": "master",
+    "develop": true,
+    "path": "src"
+  }
+  
+}

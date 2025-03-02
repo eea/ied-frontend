@@ -1,14 +1,12 @@
 pipeline {
   environment {
-    RANCHER_STACKID = "1st2568"
-    RANCHER_ENVID = "1a140884"
     GIT_NAME = "ied-frontend"
     registry = "eeacms/ied-frontend"
     template = "templates/ied-frontend"
     dockerImage = ''
     tagName = ''
-    SONARQUBE_TAG = 'www.eea.europa.eu-en'
-    SONARQUBE_TAG_DEMO = 'demo-www.eea.europa.eu'
+    SONARQUBE_TAG = 'www.ied.eea.europa.eu-en'
+    SONARQUBE_TAG_DEMO = 'www.ied.eea.europa.eu'
   }
 
   agent any

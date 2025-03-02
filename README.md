@@ -1,4 +1,4 @@
-# EEA Main Website frontend (Plone 6)
+# IED frontend (Plone 6)
 
 [![Release](https://img.shields.io/github/v/release/eea/ied-frontend?sort=semver)](https://github.com/eea/ied-frontend/releases)
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto/ied-frontend/master&subject=master)](https://ci.eionet.europa.eu/view/Github/job/volto/job/ied-frontend/job/master/display/redirect)
@@ -69,7 +69,7 @@ Trainings on how to create your own website using Plone 6 is available as part o
 
 ### Backend
 
-See [Plone 6 backend for EEA Main website](https://github.com/eea/ied-backend/tree/master/develop)
+See [Plone 6 backend for IED website](https://github.com/eea/ied-backend/tree/master/develop)
 
 ## Release
 
@@ -82,7 +82,7 @@ The release flow on Plone 6 projects is split in 2 Jenkins jobs:
 - A job that runs on every commit on master and creates a production ready GitHub release and tag with the version from `package.json`
 - A job that runs on every new tag ( including the one created in the first job):
   - A new Docker image is built and released automatically on [DockerHub](https://hub.docker.com/r/eeacms/ied-frontend) with the release tag.
-  - A new entry is automatically added to [EEA Main Website - frontend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/ied-frontend) `EEA Rancher Catalog` with the release tag
+  - A new entry is automatically added to [IED Website - frontend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/ied-frontend) `EEA Rancher Catalog` with the release tag
   - If the project demo stack is configured in `RANCHER_STACKID`, the demo stack is automatically upgraded to the newly created template version
   - If the project url is configured in `SONARQUBE_TAG`, all frontend addon dependencies will be updated both in SonarQube and their `develop` Jenkinsfile with the project url
 
@@ -167,7 +167,7 @@ We use [Docker](https://www.docker.com/), [Rancher](https://rancher.com/) and [J
 
 ### Deploy
 
-- Within `Rancher > Catalog > EEA` deploy [EEA Main Website - frontend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/ied-frontend)
+- Within `Rancher > Catalog > EEA` deploy [IED Website - frontend](https://github.com/eea/eea.rancher.catalog/tree/master/templates/ied-frontend)
 
 ### Upgrade
 

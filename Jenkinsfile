@@ -5,8 +5,8 @@ pipeline {
     template = "templates/ied-frontend"
     dockerImage = ''
     tagName = ''
-    SONARQUBE_TAG = 'www.ied.eea.europa.eu-en'
-    SONARQUBE_TAG_DEMO = 'www.ied.eea.europa.eu'
+    SONARQUBE_TAG = 'www.industry.eea.europa.eu'
+    SONARQUBE_TAG_DEMO = 'https://demo-ied.01dev.eea.europa.eu'
   }
 
   agent any

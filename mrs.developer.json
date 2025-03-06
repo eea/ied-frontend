@@ -3,9 +3,8 @@
     "url": "git@github.com:eea/volto-ied-policy.git",
     "https": "https://github.com/eea/volto-ied-policy.git",
     "package": "@eeacms/volto-ied-policy",
-    "branch": "master",
+    "branch": "develop",
     "develop": true,
     "path": "src"
   }
-  
 }

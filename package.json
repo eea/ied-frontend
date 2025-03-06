@@ -50,7 +50,8 @@
     "@eeacms/volto-eea-kitkat",
     "@eeacms/volto-eea-design-system",
     "@eeacms/volto-eea-website-theme",
-    "@eeacms/volto-ied-policy"
+    "@eeacms/volto-ied-policy",
+    "volto-subsites"
   ],
   "jest": {
     "modulePathIgnorePatterns": [

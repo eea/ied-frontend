@@ -2250,13 +2250,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:^0.0.2":
-  version: 0.0.2
-  resolution: "@eeacms/volto-ied-policy@npm:0.0.2"
+"@eeacms/volto-ied-policy@npm:1.2.15":
+  version: 1.2.15
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.15"
   dependencies:
+    "@eeacms/volto-block-toc": "*"
+    "@eeacms/volto-datablocks": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-eea-website-theme": "*"
-  checksum: 5438ef22f4dd12189da896376916eca8b1cf430fa861d7ad1d1b9cb0a772e37e17e76d8e10152aa73dac1420836475b76bdb5972725895c6d2d50b03320bba5a
+    "@eeacms/volto-resize-helper": "*"
+    "@eeacms/volto-spotlight": "*"
+    "@eeacms/volto-tableau": "*"
+    esri-loader: 3.7.0
+    plotly.js: ^2.28.0
+    react-plotly.js: 2.6.0
+  checksum: b497b70234b9669b47819613c8dbe3b14691b199769d323b14e7872709c853254e3d19e9461cd12dcdab7039c4f731839f33a7c54cd921d1e2753478ec6f9646
   languageName: node
   linkType: hard
 
@@ -17492,7 +17500,7 @@ __metadata:
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-eea-kitkat": "*"
     "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-ied-policy": ^0.0.2
+    "@eeacms/volto-ied-policy": 1.2.15
     "@plone/scripts": ^3.3.2
     "@plone/volto": 17.20.4
     "@storybook/addon-actions": ^6.3.0

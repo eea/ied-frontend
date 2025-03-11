@@ -156,7 +156,7 @@
   "resolutions": {
     "@eeacms/volto-eea-design-system": "*",
     "@eeacms/volto-eea-kitkat": "*",
-    "@eeacms/volto-ied-policy": "1.2.15",
+    "@eeacms/volto-ied-policy": "*",
     "@eeacms/volto-eea-website-theme": "*",
     "volto-subsites": "4.0.0",
     "react": "17.0.2",

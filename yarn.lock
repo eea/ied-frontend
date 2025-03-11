@@ -2250,25 +2250,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.15":
-  version: 1.2.15
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.15"
-  dependencies:
-    "@eeacms/volto-block-toc": "*"
-    "@eeacms/volto-datablocks": "*"
-    "@eeacms/volto-eea-design-system": "*"
-    "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-resize-helper": "*"
-    "@eeacms/volto-spotlight": "*"
-    "@eeacms/volto-tableau": "*"
-    esri-loader: 3.7.0
-    plotly.js: ^2.28.0
-    react-plotly.js: 2.6.0
-  checksum: b497b70234b9669b47819613c8dbe3b14691b199769d323b14e7872709c853254e3d19e9461cd12dcdab7039c4f731839f33a7c54cd921d1e2753478ec6f9646
-  languageName: node
-  linkType: hard
-
-"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@*, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:

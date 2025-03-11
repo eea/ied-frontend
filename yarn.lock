@@ -2250,17 +2250,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:^0.0.2":
-  version: 0.0.2
-  resolution: "@eeacms/volto-ied-policy@npm:0.0.2"
-  dependencies:
-    "@eeacms/volto-eea-design-system": "*"
-    "@eeacms/volto-eea-website-theme": "*"
-  checksum: 5438ef22f4dd12189da896376916eca8b1cf430fa861d7ad1d1b9cb0a772e37e17e76d8e10152aa73dac1420836475b76bdb5972725895c6d2d50b03320bba5a
-  languageName: node
-  linkType: hard
-
-"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@*, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:
@@ -17492,7 +17482,7 @@ __metadata:
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-eea-kitkat": "*"
     "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-ied-policy": ^0.0.2
+    "@eeacms/volto-ied-policy": "*"
     "@plone/scripts": ^3.3.2
     "@plone/volto": 17.20.4
     "@storybook/addon-actions": ^6.3.0

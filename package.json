@@ -170,7 +170,7 @@
     "@eeacms/volto-eea-design-system": "*",
     "@eeacms/volto-eea-kitkat": "*",
     "@eeacms/volto-eea-website-theme": "*",
-    "@eeacms/volto-ied-policy": "1.2.15",
+    "@eeacms/volto-ied-policy": "*",
     "@plone/volto": "17.20.4",
     "volto-subsites": "4.0.0"
   },

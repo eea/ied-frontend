@@ -2,7 +2,7 @@ pipeline {
   environment {
     GIT_NAME = "ied-frontend"
     registry = "eeacms/ied-frontend"
-    template = "templates/ied-frontend"
+    template = ""
     dockerImage = ''
     tagName = ''
     SONARQUBE_TAG = 'www.industry.eea.europa.eu'

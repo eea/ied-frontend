@@ -2048,7 +2048,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-block-style@npm:*, @eeacms/volto-block-style@npm:7.2.1":
+"@eeacms/volto-block-style@npm:*":
   version: 7.2.1
   resolution: "@eeacms/volto-block-style@npm:7.2.1"
   dependencies:
@@ -17479,6 +17479,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ied-frontend@workspace:."
   dependencies:
+    "@eeacms/volto-block-style": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-eea-kitkat": "*"
     "@eeacms/volto-eea-website-theme": "*"

@@ -5,8 +5,6 @@ pipeline {
     template = ""
     dockerImage = ''
     tagName = ''
-    SONARQUBE_TAG = 'www.industry.eea.europa.eu'
-    SONARQUBE_TAG_DEMO = 'https://demo-ied.01dev.eea.europa.eu'
   }
 
   agent any

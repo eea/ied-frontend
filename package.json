@@ -2,7 +2,7 @@
   "name": "ied-frontend",
   "description": "",
   "license": "MIT",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "scripts": {
     "start": "razzle start",
     "postinstall": "make omelette && make patches",

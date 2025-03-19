@@ -2,7 +2,7 @@
   "name": "ied-frontend",
   "description": "",
   "license": "MIT",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "scripts": {
     "start": "razzle start",
     "postinstall": "make omelette && make patches",
@@ -157,7 +157,7 @@
   "resolutions": {
     "@eeacms/volto-eea-design-system": "*",
     "@eeacms/volto-eea-kitkat": "*",
-    "@eeacms/volto-ied-policy": "*",
+    "@eeacms/volto-ied-policy": "1.2.18",
     "@eeacms/volto-eea-website-theme": "*",
     "@eeacms/volto-block-style": "*",
     "volto-subsites": "4.0.0",
@@ -173,7 +173,7 @@
     "@eeacms/volto-eea-design-system": "*",
     "@eeacms/volto-eea-kitkat": "*",
     "@eeacms/volto-eea-website-theme": "*",
-    "@eeacms/volto-ied-policy": "*",
+    "@eeacms/volto-ied-policy": "1.2.18",
     "@plone/volto": "17.20.4",
     "volto-subsites": "4.0.0"
   },

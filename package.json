@@ -155,11 +155,10 @@
     "node": "^18 || ^20"
   },
   "resolutions": {
-    "@eeacms/volto-eea-design-system": "*",
-    "@eeacms/volto-eea-kitkat": "*",
+    "@eeacms/volto-eea-design-system": "1.36.4",
+    "@eeacms/volto-eea-kitkat": "26.7.0",
     "@eeacms/volto-ied-policy": "1.2.26",
-    "@eeacms/volto-eea-website-theme": "*",
-    "@eeacms/volto-block-style": "*",
+    "@eeacms/volto-eea-website-theme": "3.6.0",
     "volto-subsites": "4.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -169,10 +168,9 @@
     "eslint-plugin-jsx-a11y": "6.7.1"
   },
   "dependencies": {
-    "@eeacms/volto-block-style": "*",
-    "@eeacms/volto-eea-design-system": "*",
-    "@eeacms/volto-eea-kitkat": "*",
-    "@eeacms/volto-eea-website-theme": "*",
+    "@eeacms/volto-eea-design-system": "1.36.4",
+    "@eeacms/volto-eea-kitkat": "26.7.0",
+    "@eeacms/volto-eea-website-theme": "3.6.0",
     "@eeacms/volto-ied-policy": "1.2.26",
     "@plone/volto": "17.20.4",
     "volto-subsites": "4.0.0"

@@ -2192,13 +2192,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-globalsearch@npm:2.0.11":
-  version: 2.0.11
-  resolution: "@eeacms/volto-globalsearch@npm:2.0.11"
+"@eeacms/volto-globalsearch@npm:2.1.0":
+  version: 2.1.0
+  resolution: "@eeacms/volto-globalsearch@npm:2.1.0"
   dependencies:
-    "@eeacms/volto-listing-block": 8.1.2
-    "@eeacms/volto-searchlib": 2.0.15
-  checksum: a58774c68fd39465d23c9879921ea7d36844964b84cfd3c6517628e065a2a887cf1081263323843956e4ecdb3a04176999951157693173c06d562a44bff13ae4
+    "@eeacms/volto-listing-block": "*"
+    "@eeacms/volto-searchlib": "*"
+  checksum: ed2371d4b43d9e0399154c40aeb53f765b7553eb7fbdfbef8a7c8ac3caae963f195facf8cc4256e12b30513407beeb9324e8a7291a30338f9e3bb1a8e71484ba
   languageName: node
   linkType: hard
 
@@ -2241,7 +2241,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-listing-block@npm:*, @eeacms/volto-listing-block@npm:8.1.2":
+"@eeacms/volto-listing-block@npm:*":
   version: 8.1.2
   resolution: "@eeacms/volto-listing-block@npm:8.1.2"
   dependencies:
@@ -17660,7 +17660,7 @@ __metadata:
     "@eeacms/volto-eea-design-system": 1.36.5
     "@eeacms/volto-eea-kitkat": 27.0.0
     "@eeacms/volto-eea-website-theme": 3.6.1
-    "@eeacms/volto-globalsearch": 2.0.11
+    "@eeacms/volto-globalsearch": 2.1.0
     "@eeacms/volto-ied-policy": 1.2.26
     "@eeacms/volto-searchlib": 2.0.13
     "@plone/scripts": ^3.3.2

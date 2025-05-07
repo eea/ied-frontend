@@ -2252,6 +2252,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@eeacms/volto-globalsearch@npm:2.0.11":
+  version: 2.0.11
+  resolution: "@eeacms/volto-globalsearch@npm:2.0.11"
+  dependencies:
+    "@eeacms/volto-listing-block": 8.1.2
+    "@eeacms/volto-searchlib": 2.0.15
+  checksum: a58774c68fd39465d23c9879921ea7d36844964b84cfd3c6517628e065a2a887cf1081263323843956e4ecdb3a04176999951157693173c06d562a44bff13ae4
+  languageName: node
+  linkType: hard
+
 "@eeacms/volto-group-block@npm:*, @eeacms/volto-group-block@npm:7.1.1":
   version: 7.1.1
   resolution: "@eeacms/volto-group-block@npm:7.1.1"
@@ -2269,7 +2279,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@1.2.26, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@npm:1.2.26":
+  version: 1.2.26
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.26"
+  dependencies:
+    "@eeacms/volto-block-style": "*"
+    "@eeacms/volto-block-toc": "*"
+    "@eeacms/volto-datablocks": "*"
+    "@eeacms/volto-eea-design-system": "*"
+    "@eeacms/volto-eea-website-theme": "*"
+    "@eeacms/volto-openlayers-map": "*"
+    "@eeacms/volto-resize-helper": "*"
+    "@eeacms/volto-spotlight": "*"
+    "@eeacms/volto-tableau": "*"
+    esri-loader: 3.7.0
+    plotly.js: ^2.28.0
+    react-highlight-words: 0.17.0
+    react-plotly.js: 2.6.0
+    react-tooltip: 4.2.21
+  checksum: a360a50b8098fbb30399f9cfd62db7d47a7aeef5944750e05e653106006f5d62f51e284d46a23dcc7426c89bd226ec9efd1cc2bcaa1a33ee6f31bd457b3968ee
+  languageName: node
+  linkType: hard
+
+"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:
@@ -18065,6 +18097,7 @@ __metadata:
     "@eeacms/volto-eea-design-system": 1.36.4
     "@eeacms/volto-eea-kitkat": 26.7.0
     "@eeacms/volto-eea-website-theme": 3.6.0
+    "@eeacms/volto-globalsearch": 2.0.11
     "@eeacms/volto-ied-policy": 1.2.26
     "@eeacms/volto-searchlib": 2.0.13
     "@plone/scripts": ^3.3.2

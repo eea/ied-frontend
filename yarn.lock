@@ -2219,9 +2219,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.30":
-  version: 1.2.30
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.30"
+"@eeacms/volto-ied-policy@npm:1.2.31":
+  version: 1.2.31
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.31"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2237,7 +2237,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: a3e4eda0db9a532cef690ee82c68edf6fc9ddd196a3ebb388c2361effe7833f326b416b03b29e28e63c9530c52a7d94f48b256b8ea6b3a12f6d16945c0781539
+  checksum: 53d4a724118eeeb5b18c50d5e5ede61f6e869d186bb8a4c7dd16696e53b40f039a796524ba809bce15d87e110463d915899d80b3b7f05883d32f397a8b9c19fb
   languageName: node
   linkType: hard
 
@@ -17661,7 +17661,7 @@ __metadata:
     "@eeacms/volto-eea-kitkat": 27.0.0
     "@eeacms/volto-eea-website-theme": 3.6.1
     "@eeacms/volto-globalsearch": 2.1.0
-    "@eeacms/volto-ied-policy": 1.2.30
+    "@eeacms/volto-ied-policy": 1.2.31
     "@eeacms/volto-searchlib": 2.0.13
     "@plone/scripts": ^3.3.2
     "@plone/volto": 17.20.4

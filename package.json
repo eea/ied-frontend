@@ -159,7 +159,7 @@
   "resolutions": {
     "@elastic/search-ui": "1.21.2",
     "@eeacms/volto-eea-design-system": "1.36.6",
-    "@eeacms/volto-eea-kitkat": "27.0.2",
+    "@eeacms/volto-eea-kitkat": "27.1.0",
     "@eeacms/volto-ied-policy": "1.2.35",
     "@eeacms/volto-searchlib": "2.0.13",
     "@eeacms/volto-globalsearch": "2.1.2",
@@ -174,7 +174,7 @@
   },
   "dependencies": {
     "@eeacms/volto-eea-design-system": "1.36.6",
-    "@eeacms/volto-eea-kitkat": "27.0.2",
+    "@eeacms/volto-eea-kitkat": "27.1.0",
     "@eeacms/volto-eea-website-theme": "3.6.1",
     "@eeacms/volto-globalsearch": "2.1.2",
     "@eeacms/volto-ied-policy": "1.2.35",

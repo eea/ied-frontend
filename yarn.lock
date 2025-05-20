@@ -2259,7 +2259,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@1.2.27, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@npm:1.2.27":
+  version: 1.2.27
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.27"
+  dependencies:
+    "@eeacms/volto-block-style": "*"
+    "@eeacms/volto-block-toc": "*"
+    "@eeacms/volto-datablocks": "*"
+    "@eeacms/volto-eea-design-system": "*"
+    "@eeacms/volto-eea-website-theme": "*"
+    "@eeacms/volto-openlayers-map": "*"
+    "@eeacms/volto-resize-helper": "*"
+    "@eeacms/volto-spotlight": "*"
+    "@eeacms/volto-tableau": "*"
+    esri-loader: 3.7.0
+    plotly.js: ^2.28.0
+    react-highlight-words: 0.17.0
+    react-plotly.js: 2.6.0
+    react-tooltip: 4.2.21
+  checksum: 1d66c8bc22fb2e16d74936616b1844db7bab06ba410f3511ea5f5f2c2009a7d4ac532436b62df27f0d1be491a601cfa57eef8b57499b70e35ff3b741df89aa65
+  languageName: node
+  linkType: hard
+
+"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:
@@ -3900,6 +3922,15 @@ __metadata:
   version: 0.1.2
   resolution: "@pkgr/core@npm:0.1.2"
   checksum: 5160ec9f2e3232da681824a42583ef80e637ae6143339bd1db176848efd244dd71d177ccb7fd729261d8dcaf88486ce701d39500d873ed5caf16e8c281e9e28a
+  languageName: node
+  linkType: hard
+
+"@plone-collective/volto-authomatic@npm:2.0.1":
+  version: 2.0.1
+  resolution: "@plone-collective/volto-authomatic@npm:2.0.1"
+  peerDependencies:
+    "@plone/volto": ">=13.8.0"
+  checksum: 3ef620d30dd7c5716a327acdd8875df3b7902d2812c9d6dd1faf4dd36fd8462b32d04b20011070edfc781d5139f7eb0745702cf147e4703c0d8bb4315e8abfaa
   languageName: node
   linkType: hard
 
@@ -18013,6 +18044,7 @@ __metadata:
     "@eeacms/volto-globalsearch": 2.0.11
     "@eeacms/volto-ied-policy": 1.2.26
     "@eeacms/volto-searchlib": 2.0.13
+    "@plone-collective/volto-authomatic": 2.0.1
     "@plone/scripts": ^3.3.2
     "@plone/volto": 17.20.4
     "@storybook/addon-actions": ^6.3.0

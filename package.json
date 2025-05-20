@@ -54,7 +54,8 @@
     "@eeacms/volto-eea-website-theme",
     "@eeacms/volto-ied-policy",
     "@eeacms/volto-block-style",
-    "volto-subsites"
+    "volto-subsites",
+    "@plone-collective/volto-authomatic"
   ],
   "jest": {
     "modulePathIgnorePatterns": [
@@ -163,6 +164,7 @@
     "@eeacms/volto-ied-policy": "1.2.27",
     "@eeacms/volto-searchlib": "2.0.13",
     "@eeacms/volto-globalsearch": "2.0.11",
+    "@plone-collective/volto-authomatic": "2.0.1",
     "@eeacms/volto-eea-website-theme": "3.6.0",
     "volto-subsites": "4.0.0",
     "react": "17.0.2",
@@ -179,6 +181,7 @@
     "@eeacms/volto-globalsearch": "2.0.11",
     "@eeacms/volto-ied-policy": "1.2.26",
     "@eeacms/volto-searchlib": "2.0.13",
+    "@plone-collective/volto-authomatic": "2.0.1",
     "@plone/volto": "17.20.4",
     "volto-subsites": "4.0.0"
   },

@@ -2259,7 +2259,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@1.2.35, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@npm:1.2.36":
+  version: 1.2.36
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.36"
+  dependencies:
+    "@eeacms/volto-block-style": "*"
+    "@eeacms/volto-block-toc": "*"
+    "@eeacms/volto-datablocks": "*"
+    "@eeacms/volto-eea-design-system": "*"
+    "@eeacms/volto-eea-website-theme": "*"
+    "@eeacms/volto-openlayers-map": "*"
+    "@eeacms/volto-resize-helper": "*"
+    "@eeacms/volto-spotlight": "*"
+    "@eeacms/volto-tableau": "*"
+    esri-loader: 3.7.0
+    plotly.js: ^2.28.0
+    react-highlight-words: 0.17.0
+    react-plotly.js: 2.6.0
+    react-tooltip: 4.2.21
+  checksum: 2f22c6d55c89aa3400798e80ab0343d2ec8704fd347ff847ef7878b988ffb64a46212b183dbba5fda323f7ed25c15b75fb59c07e042ef841d29f41b725c67d9e
+  languageName: node
+  linkType: hard
+
+"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:
@@ -18032,7 +18054,7 @@ __metadata:
     "@eeacms/volto-eea-kitkat": 27.1.0
     "@eeacms/volto-eea-website-theme": 3.6.1
     "@eeacms/volto-globalsearch": 2.1.2
-    "@eeacms/volto-ied-policy": 1.2.35
+    "@eeacms/volto-ied-policy": 1.2.36
     "@eeacms/volto-searchlib": 2.0.13
     "@plone-collective/volto-authomatic": 2.0.1
     "@plone/scripts": ^3.3.2

@@ -9,6 +9,14 @@
       "maxSize": "85kB"
     },
     {
+      "path": "build/public/static/js/PlotlyEditor*.js",
+      "maxSize": "1.4MB"
+    },
+    {
+      "path": "build/public/static/js/plotly-js-dist-plotly-min*.js",
+      "maxSize": "1.3MB"
+    },
+    {
       "path": "build/public/static/js/d3*.js",
       "maxSize": "103kB"
     },
@@ -16,10 +24,17 @@
       "path": "build/public/static/js/draft-js*.js",
       "maxSize": "120kB"
     },
-
+    {
+      "path": "build/public/static/js/jsoneditor*.js",
+      "maxSize": "545kB"
+    },
     {
       "path": "build/public/static/js/react-sortable*.js",
       "maxSize": "70kB"
+    },
+    {
+      "path": "build/public/static/js/citation*.js",
+      "maxSize": "370kB"
     },
     {
       "path": "build/public/static/js/react-plotly*.js",
@@ -27,7 +42,7 @@
     },
     {
       "path": "build/public/static/js/client*.js",
-      "maxSize": "1.8MB"
+      "maxSize": "2.2MB"
     },
     {
       "path": "build/public/static/js/rehype-prism-plus*.js",

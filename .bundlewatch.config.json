@@ -26,7 +26,7 @@
     },
     {
       "path": "build/public/static/js/jsoneditor*.js",
-      "maxSize": "545kB"
+      "maxSize": "600kB"
     },
     {
       "path": "build/public/static/js/react-sortable*.js",

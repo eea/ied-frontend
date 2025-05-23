@@ -32,10 +32,7 @@
       "path": "build/public/static/js/react-sortable*.js",
       "maxSize": "70kB"
     },
-    {
-      "path": "build/public/static/js/citation*.js",
-      "maxSize": "370kB"
-    },
+
     {
       "path": "build/public/static/js/react-plotly*.js",
       "maxSize": "1.3MB"

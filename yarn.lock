@@ -2088,9 +2088,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-chatbot@npm:0.1.19":
-  version: 0.1.19
-  resolution: "@eeacms/volto-chatbot@npm:0.1.19"
+"@eeacms/volto-chatbot@npm:0.1.20":
+  version: 0.1.20
+  resolution: "@eeacms/volto-chatbot@npm:0.1.20"
   dependencies:
     "@microsoft/fetch-event-source": 2.0.1
     fast-json-patch: 3.1.1
@@ -2103,7 +2103,7 @@ __metadata:
     rehype-prism-plus: 1.6.0
     remark-gfm: 3.0.1
     uuid: 10.0.0
-  checksum: 0cf1d18996ad76a536d3a6c6dbc8188aefa9c1f849fc698423e81c1074b2e7e5d710d7002daa02b7c6eb35e182cb65e1045a03963ac452fb2e608837451eed1a
+  checksum: 79e78f36346d9b91f0f7f19ebd078ebd464412184d0b1fe13e46d4076f862cd76aeef3db42077dc27ef045ac7b5a5f70183ba4d9039ba1a8d89099d65b78c643
   languageName: node
   linkType: hard
 
@@ -2171,9 +2171,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-kitkat@npm:27.1.0":
-  version: 27.1.0
-  resolution: "@eeacms/volto-eea-kitkat@npm:27.1.0"
+"@eeacms/volto-eea-kitkat@npm:27.1.1":
+  version: 27.1.1
+  resolution: "@eeacms/volto-eea-kitkat@npm:27.1.1"
   dependencies:
     "@eeacms/countup": 2.0.7
     "@eeacms/volto-accordion-block": 11.0.4
@@ -2185,7 +2185,7 @@ __metadata:
     "@eeacms/volto-block-style": 7.2.1
     "@eeacms/volto-block-toc": 7.0.0
     "@eeacms/volto-call-to-action-block": 5.1.3
-    "@eeacms/volto-chatbot": 0.1.19
+    "@eeacms/volto-chatbot": 0.1.20
     "@eeacms/volto-columns-block": 8.0.3
     "@eeacms/volto-controlpanel": 1.0.2
     "@eeacms/volto-corsproxy": 4.0.0
@@ -2216,20 +2216,20 @@ __metadata:
     "@eeacms/volto-widget-theme-picker": 2.0.0
     "@eeacms/volto-widget-toggle": 4.0.0
     "@plone-collective/volto-sentry": 0.3.1
-  checksum: aa9312e030a51ee45a750f161912683db3b75a70f6ed327054f53eb5aa8305e1787b7cac493dfe13b0acf8288e5888c89edaf1b3c7bdbba6174be141faefc2ae
+  checksum: 550acbce4aa42b0781468e2feb919bb5b1a1a44093ecac38ff3a58358abdefde141b89f95d6ec0809724aa9a5f3fac43f35b88f2eed41f2016dff3b38dd6b6bf
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-website-theme@npm:3.6.1":
+"@eeacms/volto-eea-website-theme@github:eea/volto-eea-website-theme#ad-usergroup-widget":
   version: 3.6.1
-  resolution: "@eeacms/volto-eea-website-theme@npm:3.6.1"
+  resolution: "@eeacms/volto-eea-website-theme@https://github.com/eea/volto-eea-website-theme.git#commit=8cec7fcccd46f059770f4ce5d863fc9cf1b850a3"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-group-block": "*"
     volto-subsites: "*"
-  checksum: 6cada5e6c9607fbd3eab7831f6119d79159b135d9473618fa28ec696892c6b1a57fedd2e1e6bd06eb5dec25cba0a9916be8f16c256a3d4b0bb89b30f9dabdd21
+  checksum: b798c1d469d3bd886d3a8798684791a93144082d63e707961039e7f9bea9f70c1b0bca985e423f1774de97e96684b80f6767924aa72c02b988db04e35bd427aa
   languageName: node
   linkType: hard
 
@@ -2253,10 +2253,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-group-block@npm:*, @eeacms/volto-group-block@npm:7.1.1":
+"@eeacms/volto-group-block@github:eea/volto-group-block#move-restricted":
   version: 7.1.1
-  resolution: "@eeacms/volto-group-block@npm:7.1.1"
-  checksum: 02d12afbf1b9de3073e31269f66c933fe21a9534fcf8537428f3736e368864a5458afff913ebc92d5ff070ffe0de3761ed1c853a0d18781db5d622252374dfb0
+  resolution: "@eeacms/volto-group-block@https://github.com/eea/volto-group-block.git#commit=50b8c4bb0a590df3636b3f37e701992073ec0785"
+  checksum: 6ae98aa65ee1388f7f4af87f76d6a31e48d9b1385d417529dcef7450e8784174e94615903da1bafc3c541207c4b2665aed9f601cbc47c0a04f6cda66c6d13a3d
   languageName: node
   linkType: hard
 
@@ -2270,9 +2270,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.39":
-  version: 1.2.39
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.39"
+"@eeacms/volto-ied-policy@npm:1.2.40":
+  version: 1.2.40
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.40"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2288,7 +2288,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: e8d8763f47e058cee0ec2e763db0c1a06716c5f509a66242f857faa0adfbba70156e6e103308394632dcaf1b4c329467f7bfe4469a2d3f84cef74a0467fa36e4
+  checksum: e33b11f049c8235ad623b044bd761fd83a23cecae70d04fde8dbdf5ad387d4803bbd6d265aacad5487536258245525a32b45e4b628a8291b3efae03e9bf1fc88
   languageName: node
   linkType: hard
 
@@ -2349,9 +2349,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-plotlycharts@npm:12.0.2":
-  version: 12.0.2
-  resolution: "@eeacms/volto-plotlycharts@npm:12.0.2"
+"@eeacms/volto-plotlycharts@npm:12.0.4":
+  version: 12.0.4
+  resolution: "@eeacms/volto-plotlycharts@npm:12.0.4"
   dependencies:
     "@eeacms/react-chart-editor": 0.47.2
     "@eeacms/volto-datablocks": "*"
@@ -2361,7 +2361,7 @@ __metadata:
     jsoneditor: 10.2.0
     plotly.js: ^2.35.3
     react-plotly.js: 2.6.0
-  checksum: 2db8132b9c90defbed0547c0ceb6095eabae6cd3751014bc52f61343c246bfdc1e1ef123c0fcde8a85e3e1452e835fb71dad8d9be3f6fa1562325d370dffc754
+  checksum: 2256f43112afc00c10d55a919171020adaf557dfa0f31ea32f86e1ca410357de5b24672672097ade93b9cdb7ef9f2a60c585f882cd46a3002ba27d69e1018bd0
   languageName: node
   linkType: hard
 
@@ -17928,11 +17928,12 @@ __metadata:
   resolution: "ied-frontend@workspace:."
   dependencies:
     "@eeacms/volto-eea-design-system": 1.36.6
-    "@eeacms/volto-eea-kitkat": 27.1.0
-    "@eeacms/volto-eea-website-theme": 3.6.1
+    "@eeacms/volto-eea-kitkat": 27.1.1
+    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
     "@eeacms/volto-globalsearch": 2.1.2
-    "@eeacms/volto-ied-policy": 1.2.39
-    "@eeacms/volto-plotlycharts": 12.0.2
+    "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
+    "@eeacms/volto-ied-policy": 1.2.40
+    "@eeacms/volto-plotlycharts": 12.0.4
     "@eeacms/volto-searchlib": 2.0.13
     "@plone-collective/volto-authomatic": 2.0.1
     "@plone/scripts": ^3.3.2

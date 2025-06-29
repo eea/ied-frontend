@@ -2312,16 +2312,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@eea/volto-ied-policy#develop":
-  version: 1.2.41
-  resolution: "@eeacms/volto-ied-policy@https://github.com/eea/volto-ied-policy.git#commit=c9e60882ca849e444ef1525878c73f6e3d0dda39"
+"@eeacms/volto-ied-policy@npm:1.2.40":
+  version: 1.2.40
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.40"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
     "@eeacms/volto-datablocks": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-openlayers-map": 1.0.1
+    "@eeacms/volto-openlayers-map": "*"
     "@eeacms/volto-resize-helper": "*"
     "@eeacms/volto-spotlight": "*"
     "@eeacms/volto-tableau": "*"
@@ -2330,7 +2330,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: f5a5da24a3614f111a3e9a1cd3a073690c795d4f230b35c54b5c653dc8f75cceb3263b96887b2e65d811d20bc1a4b7aff4cc6ed84e8a785ea0c51daab6a42f56
+  checksum: e33b11f049c8235ad623b044bd761fd83a23cecae70d04fde8dbdf5ad387d4803bbd6d265aacad5487536258245525a32b45e4b628a8291b3efae03e9bf1fc88
   languageName: node
   linkType: hard
 
@@ -2344,7 +2344,7 @@ __metadata:
     "@eeacms/volto-datablocks": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-openlayers-map": "eea/volto-openlayers-map#develop"
+    "@eeacms/volto-openlayers-map": 1.0.1
     "@eeacms/volto-resize-helper": "*"
     "@eeacms/volto-spotlight": "*"
     "@eeacms/volto-tableau": "*"
@@ -2412,16 +2412,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-openlayers-map@eea/volto-openlayers-map#develop":
-  version: 1.0.1
-  resolution: "@eeacms/volto-openlayers-map@https://github.com/eea/volto-openlayers-map.git#commit=3e8eb080de1d19a1c87b05a411be7f087aa5e2b9"
-  dependencies:
-    ol: 6.6.x
-  checksum: fa2eb3b8c15e445a465b3489d916cd736644a75b41a79543d5244d60174114568d6950749139b19878ed4f16f5539cd2907db607bf3a3c9c95cbf9fdc7008f94
-  languageName: node
-  linkType: hard
-
-"@eeacms/volto-openlayers-map@npm:1.0.1":
+"@eeacms/volto-openlayers-map@npm:*, @eeacms/volto-openlayers-map@npm:1.0.1":
   version: 1.0.1
   resolution: "@eeacms/volto-openlayers-map@npm:1.0.1"
   dependencies:

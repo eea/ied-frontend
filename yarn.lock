@@ -35,7 +35,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/compat-data@npm:^7.20.5, @babel/compat-data@npm:^7.22.6, @babel/compat-data@npm:^7.27.2":
+"@babel/compat-data@npm:^7.20.5, @babel/compat-data@npm:^7.27.2, @babel/compat-data@npm:^7.27.7":
   version: 7.27.7
   resolution: "@babel/compat-data@npm:7.27.7"
   checksum: 00c7d2dfca5ae62306ef5f6b08a33b96676f3c395c95a220784e3a9644b97d898b6dd83071890d51a069705909c472b4fb15a91df29d54df2f87cfb88852ebe2
@@ -139,7 +139,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-compilation-targets@npm:^7.13.0, @babel/helper-compilation-targets@npm:^7.20.7, @babel/helper-compilation-targets@npm:^7.22.6, @babel/helper-compilation-targets@npm:^7.27.1, @babel/helper-compilation-targets@npm:^7.27.2":
+"@babel/helper-compilation-targets@npm:^7.13.0, @babel/helper-compilation-targets@npm:^7.20.7, @babel/helper-compilation-targets@npm:^7.27.1, @babel/helper-compilation-targets@npm:^7.27.2":
   version: 7.27.2
   resolution: "@babel/helper-compilation-targets@npm:7.27.2"
   dependencies:
@@ -200,18 +200,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-define-polyfill-provider@npm:^0.6.3, @babel/helper-define-polyfill-provider@npm:^0.6.4":
-  version: 0.6.4
-  resolution: "@babel/helper-define-polyfill-provider@npm:0.6.4"
+"@babel/helper-define-polyfill-provider@npm:^0.6.3, @babel/helper-define-polyfill-provider@npm:^0.6.5":
+  version: 0.6.5
+  resolution: "@babel/helper-define-polyfill-provider@npm:0.6.5"
   dependencies:
-    "@babel/helper-compilation-targets": ^7.22.6
-    "@babel/helper-plugin-utils": ^7.22.5
-    debug: ^4.1.1
+    "@babel/helper-compilation-targets": ^7.27.2
+    "@babel/helper-plugin-utils": ^7.27.1
+    debug: ^4.4.1
     lodash.debounce: ^4.0.8
-    resolve: ^1.14.2
+    resolve: ^1.22.10
   peerDependencies:
     "@babel/core": ^7.4.0 || ^8.0.0-0 <8.0.0
-  checksum: bfbcb41f005ba11497b459cf801650af558b533f383b2f57034e9ccce592a0af699b585898deef93598ed3d9bd14502327e18dfc8a92a3db48b2a49ae2886f86
+  checksum: 9fd3b09b209c8ed0d3d8bc1f494f1368b9e1f6e46195af4ce948630fe97d7dafde4882eedace270b319bf6555ddf35e220c77505f6d634f621766cdccbba0aae
   languageName: node
   linkType: hard
 
@@ -264,7 +264,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-plugin-utils@npm:^7.0.0, @babel/helper-plugin-utils@npm:^7.10.4, @babel/helper-plugin-utils@npm:^7.12.13, @babel/helper-plugin-utils@npm:^7.13.0, @babel/helper-plugin-utils@npm:^7.14.5, @babel/helper-plugin-utils@npm:^7.18.6, @babel/helper-plugin-utils@npm:^7.18.9, @babel/helper-plugin-utils@npm:^7.20.2, @babel/helper-plugin-utils@npm:^7.22.5, @babel/helper-plugin-utils@npm:^7.27.1, @babel/helper-plugin-utils@npm:^7.8.0, @babel/helper-plugin-utils@npm:^7.8.3":
+"@babel/helper-plugin-utils@npm:^7.0.0, @babel/helper-plugin-utils@npm:^7.10.4, @babel/helper-plugin-utils@npm:^7.12.13, @babel/helper-plugin-utils@npm:^7.13.0, @babel/helper-plugin-utils@npm:^7.14.5, @babel/helper-plugin-utils@npm:^7.18.6, @babel/helper-plugin-utils@npm:^7.18.9, @babel/helper-plugin-utils@npm:^7.20.2, @babel/helper-plugin-utils@npm:^7.27.1, @babel/helper-plugin-utils@npm:^7.8.0, @babel/helper-plugin-utils@npm:^7.8.3":
   version: 7.27.1
   resolution: "@babel/helper-plugin-utils@npm:7.27.1"
   checksum: 5d715055301badab62bdb2336075a77f8dc8bd290cad2bc1b37ea3bf1b3efc40594d308082229f239deb4d6b5b80b0a73bce000e595ea74416e0339c11037047
@@ -2312,29 +2312,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.40":
-  version: 1.2.40
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.40"
-  dependencies:
-    "@eeacms/volto-block-style": "*"
-    "@eeacms/volto-block-toc": "*"
-    "@eeacms/volto-datablocks": "*"
-    "@eeacms/volto-eea-design-system": "*"
-    "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-openlayers-map": "*"
-    "@eeacms/volto-resize-helper": "*"
-    "@eeacms/volto-spotlight": "*"
-    "@eeacms/volto-tableau": "*"
-    esri-loader: 3.7.0
-    plotly.js: ^2.28.0
-    react-highlight-words: 0.17.0
-    react-plotly.js: 2.6.0
-    react-tooltip: 4.2.21
-  checksum: e33b11f049c8235ad623b044bd761fd83a23cecae70d04fde8dbdf5ad387d4803bbd6d265aacad5487536258245525a32b45e4b628a8291b3efae03e9bf1fc88
-  languageName: node
-  linkType: hard
-
-"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@1.2.41, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:
@@ -2409,15 +2387,6 @@ __metadata:
   dependencies:
     "@eeacms/volto-resize-helper": "*"
   checksum: a6c6e03d339de51e79e83731332e340678afd8e08303da5bce954d80cd6f04c2945ee70efaf6a7bb811327a1388c1a46f5f35013a13c1ea02c73fd4eb8b32879
-  languageName: node
-  linkType: hard
-
-"@eeacms/volto-openlayers-map@npm:*":
-  version: 1.0.1
-  resolution: "@eeacms/volto-openlayers-map@npm:1.0.1"
-  dependencies:
-    ol: 6.6.x
-  checksum: efbd9bd2fcd481d7e4b8b157015e2e71d7bcbefd4b537550aeb03c356b0ad923b7659bad1886f32331f50689694968783d8919ba5630896bae8f79d2caafc3a6
   languageName: node
   linkType: hard
 
@@ -3002,29 +2971,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@floating-ui/core@npm:^1.7.1":
-  version: 1.7.1
-  resolution: "@floating-ui/core@npm:1.7.1"
+"@floating-ui/core@npm:^1.7.2":
+  version: 1.7.2
+  resolution: "@floating-ui/core@npm:1.7.2"
   dependencies:
-    "@floating-ui/utils": ^0.2.9
-  checksum: dccd6efe7cdc9039ce62e805efd20f4572996e03decf6b1451b4de649b8841c841b68999148003e1b22e2184afc6d8cd22b38c9697f2b2bb9301ba52ebdf7824
+    "@floating-ui/utils": ^0.2.10
+  checksum: aea540ea0101daf83e5beb2769af81f0532dcb8514dbee9d4c0a06576377d56dbfd4e5c3b031359594a26649734d1145bbd5524e8a573a745a5fcadc6b307906
   languageName: node
   linkType: hard
 
 "@floating-ui/dom@npm:^1.0.1":
-  version: 1.7.1
-  resolution: "@floating-ui/dom@npm:1.7.1"
+  version: 1.7.2
+  resolution: "@floating-ui/dom@npm:1.7.2"
   dependencies:
-    "@floating-ui/core": ^1.7.1
-    "@floating-ui/utils": ^0.2.9
-  checksum: 557c96169fb086b52f83819ec9810aaa06fe50a386edd615ad9f484d1bb8d3de2396ded216482b15c0b6164929d39cb94dffdb5102ba5a736b8c50e02a33c250
+    "@floating-ui/core": ^1.7.2
+    "@floating-ui/utils": ^0.2.10
+  checksum: 232d6668693cfecec038f3fb1f5398eace340427a9108701b895136c18d303d8bdd6237dce224626abf56a5a4592db776fbd0d187aa0f72c729bfca14a474b65
   languageName: node
   linkType: hard
 
-"@floating-ui/utils@npm:^0.2.9":
-  version: 0.2.9
-  resolution: "@floating-ui/utils@npm:0.2.9"
-  checksum: d518b80cec5a323e54a069a1dd99a20f8221a4853ed98ac16c75275a0cc22f75de4f8ac5b121b4f8990bd45da7ad1fb015b9a1e4bac27bb1cd62444af84e9784
+"@floating-ui/utils@npm:^0.2.10":
+  version: 0.2.10
+  resolution: "@floating-ui/utils@npm:0.2.10"
+  checksum: ffc4c24a46a665cfd0337e9aaf7de8415b572f8a0f323af39175e4b575582aed13d172e7f049eedeece9eaf022bad019c140a2d192580451984ae529bdf1285c
   languageName: node
   linkType: hard
 
@@ -3488,13 +3457,12 @@ __metadata:
   linkType: hard
 
 "@jridgewell/gen-mapping@npm:^0.3.5":
-  version: 0.3.8
-  resolution: "@jridgewell/gen-mapping@npm:0.3.8"
+  version: 0.3.10
+  resolution: "@jridgewell/gen-mapping@npm:0.3.10"
   dependencies:
-    "@jridgewell/set-array": ^1.2.1
-    "@jridgewell/sourcemap-codec": ^1.4.10
+    "@jridgewell/sourcemap-codec": ^1.5.0
     "@jridgewell/trace-mapping": ^0.3.24
-  checksum: c0687b5227461717aa537fe71a42e356bcd1c43293b3353796a148bf3b0d6f59109def46c22f05b60e29a46f19b2e4676d027959a7c53a6c92b9d5b0d87d0420
+  checksum: 0cddd9adda499f1e10ce6597b4ba337b6742350fa3caf643d2d572a9d4fbf87dbf4ec0cdfc22ada11991b2ac61599a3af35ee7e9ef5d21e5a841ab71038238af
   languageName: node
   linkType: hard
 
@@ -3505,37 +3473,30 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jridgewell/set-array@npm:^1.2.1":
-  version: 1.2.1
-  resolution: "@jridgewell/set-array@npm:1.2.1"
-  checksum: 832e513a85a588f8ed4f27d1279420d8547743cc37fcad5a5a76fc74bb895b013dfe614d0eed9cb860048e6546b798f8f2652020b4b2ba0561b05caa8c654b10
-  languageName: node
-  linkType: hard
-
 "@jridgewell/source-map@npm:^0.3.3":
-  version: 0.3.6
-  resolution: "@jridgewell/source-map@npm:0.3.6"
+  version: 0.3.8
+  resolution: "@jridgewell/source-map@npm:0.3.8"
   dependencies:
     "@jridgewell/gen-mapping": ^0.3.5
     "@jridgewell/trace-mapping": ^0.3.25
-  checksum: c9dc7d899397df95e3c9ec287b93c0b56f8e4453cd20743e2b9c8e779b1949bc3cccf6c01bb302779e46560eb45f62ea38d19fedd25370d814734268450a9f30
+  checksum: d43f33340c97dc6fd26ddd902cff88cfd57898ee22455532b5f9d2128c3680bd6c5ac60287cd12fd76c63d689255f342965f9069710f839cfd4094d46b91b7a4
   languageName: node
   linkType: hard
 
-"@jridgewell/sourcemap-codec@npm:^1.4.10, @jridgewell/sourcemap-codec@npm:^1.4.14":
-  version: 1.5.0
-  resolution: "@jridgewell/sourcemap-codec@npm:1.5.0"
-  checksum: 05df4f2538b3b0f998ea4c1cd34574d0feba216fa5d4ccaef0187d12abf82eafe6021cec8b49f9bb4d90f2ba4582ccc581e72986a5fcf4176ae0cfeb04cf52ec
+"@jridgewell/sourcemap-codec@npm:^1.4.14, @jridgewell/sourcemap-codec@npm:^1.5.0":
+  version: 1.5.2
+  resolution: "@jridgewell/sourcemap-codec@npm:1.5.2"
+  checksum: cc346f1058b29da2ec84c7ae5aeecb8c58601c03a67bf62397ffaf13b6fcac7dc56fade0b873216400fa204a3e8b23f5f2facdea87d53250bbefd140ad08b67a
   languageName: node
   linkType: hard
 
 "@jridgewell/trace-mapping@npm:^0.3.12, @jridgewell/trace-mapping@npm:^0.3.14, @jridgewell/trace-mapping@npm:^0.3.24, @jridgewell/trace-mapping@npm:^0.3.25":
-  version: 0.3.25
-  resolution: "@jridgewell/trace-mapping@npm:0.3.25"
+  version: 0.3.27
+  resolution: "@jridgewell/trace-mapping@npm:0.3.27"
   dependencies:
     "@jridgewell/resolve-uri": ^3.1.0
     "@jridgewell/sourcemap-codec": ^1.4.14
-  checksum: 9d3c40d225e139987b50c48988f8717a54a8c994d8a948ee42e1412e08988761d0754d7d10b803061cc3aebf35f92a5dbbab493bd0e1a9ef9e89a2130e83ba34
+  checksum: 7fcdee16c4da1f869ecd0a4465f28cc1eb51dbd88cbedde8ca114357f0faa03b31c7e997f5889cd061a3bab4262f616c5a915ab83d047022a87a2daf715a2069
   languageName: node
   linkType: hard
 
@@ -6805,11 +6766,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 24.0.4
-  resolution: "@types/node@npm:24.0.4"
+  version: 24.0.7
+  resolution: "@types/node@npm:24.0.7"
   dependencies:
     undici-types: ~7.8.0
-  checksum: db036e3f1fea5a92fd6cd76064cf07d517b245ace73d6f46bcd8e35f38ff856f86f3311aabc7c7406de2bdae9f8308070541dacfce20fec2510d42b3cd00bb9e
+  checksum: e3986e0683cf5cf816297200deb0627e62b60d81952391ed03e292cd13463acaa0601adbce2402ecf560eac7a80bbc77f58417173cb01755a79fbed0b2165c92
   languageName: node
   linkType: hard
 
@@ -9375,15 +9336,15 @@ __metadata:
   linkType: hard
 
 "babel-plugin-polyfill-corejs2@npm:^0.4.10":
-  version: 0.4.13
-  resolution: "babel-plugin-polyfill-corejs2@npm:0.4.13"
+  version: 0.4.14
+  resolution: "babel-plugin-polyfill-corejs2@npm:0.4.14"
   dependencies:
-    "@babel/compat-data": ^7.22.6
-    "@babel/helper-define-polyfill-provider": ^0.6.4
+    "@babel/compat-data": ^7.27.7
+    "@babel/helper-define-polyfill-provider": ^0.6.5
     semver: ^6.3.1
   peerDependencies:
     "@babel/core": ^7.4.0 || ^8.0.0-0 <8.0.0
-  checksum: 553b64eb11bad2cfc220e94f1fb2449755b5c7d54886dca6d8053b13b6e910f349a38bbc75aafd610f88217699db499548919bb5df653d635b9cdeb39d34a68d
+  checksum: d654334c1b4390d08282416144b7b6f3d74d2cab44b2bfa2b6405c828882c82907b8b67698dce1be046c218d2d4fe5bf7fb6d01879938f3129dad969e8cfc44d
   languageName: node
   linkType: hard
 
@@ -9412,13 +9373,13 @@ __metadata:
   linkType: hard
 
 "babel-plugin-polyfill-regenerator@npm:^0.6.1":
-  version: 0.6.4
-  resolution: "babel-plugin-polyfill-regenerator@npm:0.6.4"
+  version: 0.6.5
+  resolution: "babel-plugin-polyfill-regenerator@npm:0.6.5"
   dependencies:
-    "@babel/helper-define-polyfill-provider": ^0.6.4
+    "@babel/helper-define-polyfill-provider": ^0.6.5
   peerDependencies:
     "@babel/core": ^7.4.0 || ^8.0.0-0 <8.0.0
-  checksum: f4d4a803834ffa72713579d696586d8cc654c0025cbd5ec775fc5d37faa00381dcb80e5b97d4b16059443352653585596d87848b5590b1d8670c235408e73fb3
+  checksum: ed1932fa9a31e0752fd10ebf48ab9513a654987cab1182890839523cb898559d24ae0578fdc475d9f995390420e64eeaa4b0427045b56949dace3c725bc66dbb
   languageName: node
   linkType: hard
 
@@ -12294,9 +12255,9 @@ __metadata:
   linkType: hard
 
 "css-what@npm:^6.0.1":
-  version: 6.1.0
-  resolution: "css-what@npm:6.1.0"
-  checksum: b975e547e1e90b79625918f84e67db5d33d896e6de846c9b584094e529f0c63e2ab85ee33b9daffd05bff3a146a1916bec664e18bb76dd5f66cbff9fc13b2bbe
+  version: 6.2.2
+  resolution: "css-what@npm:6.2.2"
+  checksum: 4d1f07b348a638e1f8b4c72804a1e93881f35e0f541256aec5ac0497c5855df7db7ab02da030de950d4813044f6d029a14ca657e0f92c3987e4b604246235b2b
   languageName: node
   linkType: hard
 
@@ -13179,7 +13140,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.4, debug@npm:^4.4.0":
+"debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.4, debug@npm:^4.4.0, debug@npm:^4.4.1":
   version: 4.4.1
   resolution: "debug@npm:4.4.1"
   dependencies:
@@ -13989,9 +13950,9 @@ __metadata:
   linkType: hard
 
 "dotenv@npm:^16.3.2":
-  version: 16.6.0
-  resolution: "dotenv@npm:16.6.0"
-  checksum: ee594a60af62850fd28db49c14d08de54261ac138c9b7c2eeaf6b691b256ae54fe920729ccabd2a2d2f5a67223c218e9cd006f103dec5d54ce61ecd856633996
+  version: 16.6.1
+  resolution: "dotenv@npm:16.6.1"
+  checksum: e8bd63c9a37f57934f7938a9cf35de698097fadf980cb6edb61d33b3e424ceccfe4d10f37130b904a973b9038627c2646a3365a904b4406514ea94d7f1816b69
   languageName: node
   linkType: hard
 
@@ -18393,7 +18354,7 @@ __metadata:
     "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
-    "@eeacms/volto-ied-policy": 1.2.40
+    "@eeacms/volto-ied-policy": 1.2.41
     "@eeacms/volto-plotlycharts": 12.0.6
     "@eeacms/volto-searchlib": 2.0.13
     "@plone-collective/volto-authomatic": 2.0.1
@@ -21706,11 +21667,11 @@ __metadata:
   linkType: hard
 
 "markdown-to-jsx@npm:^7.1.3":
-  version: 7.7.8
-  resolution: "markdown-to-jsx@npm:7.7.8"
+  version: 7.7.10
+  resolution: "markdown-to-jsx@npm:7.7.10"
   peerDependencies:
     react: ">= 0.14.0"
-  checksum: aacdb7806d0937d3240875416d1ce39d62c32b077723dca2ccdb629082b31bd64aaf4a31ba6c269d28c0dd71b134d80ca76c5b49926758d1ef86a408f5d16588
+  checksum: 674e2d0a2ca7632aae5de7d550c61e274d29ee6b5ccd6f479165a6cc2d96819d3bc35b1111deef8239d6353f19e2f5cbbd67b7eba9495bfab09e207ecea8a943
   languageName: node
   linkType: hard
 
@@ -28548,7 +28509,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"resolve@npm:^1.0.0, resolve@npm:^1.1.10, resolve@npm:^1.1.5, resolve@npm:^1.1.6, resolve@npm:^1.10.0, resolve@npm:^1.12.0, resolve@npm:^1.14.2, resolve@npm:^1.17.0, resolve@npm:^1.18.1, resolve@npm:^1.19.0, resolve@npm:^1.22.4, resolve@npm:^1.3.2":
+"resolve@npm:^1.0.0, resolve@npm:^1.1.10, resolve@npm:^1.1.5, resolve@npm:^1.1.6, resolve@npm:^1.10.0, resolve@npm:^1.12.0, resolve@npm:^1.14.2, resolve@npm:^1.17.0, resolve@npm:^1.18.1, resolve@npm:^1.19.0, resolve@npm:^1.22.10, resolve@npm:^1.22.4, resolve@npm:^1.3.2":
   version: 1.22.10
   resolution: "resolve@npm:1.22.10"
   dependencies:
@@ -28581,7 +28542,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"resolve@patch:resolve@^1.0.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.1.10#~builtin<compat/resolve>, resolve@patch:resolve@^1.1.5#~builtin<compat/resolve>, resolve@patch:resolve@^1.1.6#~builtin<compat/resolve>, resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.12.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>, resolve@patch:resolve@^1.17.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.18.1#~builtin<compat/resolve>, resolve@patch:resolve@^1.19.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.22.4#~builtin<compat/resolve>, resolve@patch:resolve@^1.3.2#~builtin<compat/resolve>":
+"resolve@patch:resolve@^1.0.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.1.10#~builtin<compat/resolve>, resolve@patch:resolve@^1.1.5#~builtin<compat/resolve>, resolve@patch:resolve@^1.1.6#~builtin<compat/resolve>, resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.12.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>, resolve@patch:resolve@^1.17.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.18.1#~builtin<compat/resolve>, resolve@patch:resolve@^1.19.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.22.10#~builtin<compat/resolve>, resolve@patch:resolve@^1.22.4#~builtin<compat/resolve>, resolve@patch:resolve@^1.3.2#~builtin<compat/resolve>":
   version: 1.22.10
   resolution: "resolve@patch:resolve@npm%3A1.22.10#~builtin<compat/resolve>::version=1.22.10&hash=07638b"
   dependencies:
@@ -33729,8 +33690,8 @@ __metadata:
   linkType: hard
 
 "ws@npm:^8.2.3, ws@npm:^8.4.2":
-  version: 8.18.2
-  resolution: "ws@npm:8.18.2"
+  version: 8.18.3
+  resolution: "ws@npm:8.18.3"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ">=5.0.2"
@@ -33739,7 +33700,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: e38beae19ba4d68577ec24eb34fbfab376333fedd10f99b07511a8e842e22dbc102de39adac333a18e4c58868d0703cd5f239b04b345e22402d0ed8c34ea0aa0
+  checksum: d64ef1631227bd0c5fe21b3eb3646c9c91229402fb963d12d87b49af0a1ef757277083af23a5f85742bae1e520feddfb434cb882ea59249b15673c16dc3f36e0
   languageName: node
   linkType: hard
 

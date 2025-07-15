@@ -160,8 +160,13 @@
   },
   "resolutions": {
     "@elastic/search-ui": "1.21.2",
+<<<<<<< HEAD
     "@eeacms/volto-eea-design-system": "github:eea/volto-eea-design-system#header-setting",
     "@eeacms/volto-eea-kitkat": "27.1.2",
+=======
+    "@eeacms/volto-eea-design-system": "1.37.2",
+    "@eeacms/volto-eea-kitkat": "27.1.3",
+>>>>>>> 84e0759730881e9b8e9ec2527362159f3077bec8
     "@eeacms/volto-plotlycharts": "12.0.8",
     "@eeacms/volto-ied-policy": "1.2.42",
     "@eeacms/volto-searchlib": "2.0.13",
@@ -179,7 +184,7 @@
   },
   "dependencies": {
     "@eeacms/volto-eea-design-system": "github:eea/volto-eea-design-system#header-setting",
-    "@eeacms/volto-eea-kitkat": "27.1.2",
+    "@eeacms/volto-eea-kitkat": "27.1.3",
     "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#header-ttw",
     "@eeacms/volto-globalsearch": "2.1.2",
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted",

@@ -2231,7 +2231,7 @@ __metadata:
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-group-block": "*"
     volto-subsites: "*"
-  checksum: b798c1d469d3bd886d3a8798684791a93144082d63e707961039e7f9bea9f70c1b0bca985e423f1774de97e96684b80f6767924aa72c02b988db04e35bd427aa
+  checksum: c634cc252d366b37d310fed386855a29edbdf2f0aba79e0fe3ba4bb3f6fc0e15ecbb49f159b1b7c85c282064afea7abc1a5b3405bdbe642c165ce1cbeffef448
   languageName: node
   linkType: hard
 
@@ -2258,7 +2258,7 @@ __metadata:
 "@eeacms/volto-group-block@github:eea/volto-group-block#move-restricted":
   version: 7.1.1
   resolution: "@eeacms/volto-group-block@https://github.com/eea/volto-group-block.git#commit=50b8c4bb0a590df3636b3f37e701992073ec0785"
-  checksum: 6ae98aa65ee1388f7f4af87f76d6a31e48d9b1385d417529dcef7450e8784174e94615903da1bafc3c541207c4b2665aed9f601cbc47c0a04f6cda66c6d13a3d
+  checksum: 1d5483406caf40294f0b935af1cb385f8109e01f64554a2f4af9d297d58c53f936e64a862af86163d2c9b1cc8814e44ecfe9f6b06ed41185a7ea5c38849ad9ee
   languageName: node
   linkType: hard
 
@@ -17987,9 +17987,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ied-frontend@workspace:."
   dependencies:
-    "@eeacms/volto-eea-design-system": 1.37.2
+    "@eeacms/volto-eea-design-system": "github:eea/volto-eea-design-system#header-setting"
     "@eeacms/volto-eea-kitkat": 27.1.2
-    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
+    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#header-ttw"
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
     "@eeacms/volto-ied-policy": 1.2.42

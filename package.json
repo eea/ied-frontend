@@ -178,9 +178,9 @@
     "eslint-plugin-jsx-a11y": "6.7.1"
   },
   "dependencies": {
-    "@eeacms/volto-eea-design-system": "1.37.2",
+    "@eeacms/volto-eea-design-system": "github:eea/volto-eea-design-system#header-setting",
     "@eeacms/volto-eea-kitkat": "27.1.2",
-    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget",
+    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#header-ttw",
     "@eeacms/volto-globalsearch": "2.1.2",
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted",
     "@eeacms/volto-ied-policy": "1.2.42",

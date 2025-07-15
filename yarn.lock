@@ -2158,9 +2158,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-design-system@npm:1.37.2":
-  version: 1.37.2
-  resolution: "@eeacms/volto-eea-design-system@npm:1.37.2"
+"@eeacms/volto-eea-design-system@github:eea/volto-eea-design-system#header-setting":
+  version: 1.37.0
+  resolution: "@eeacms/volto-eea-design-system@https://github.com/eea/volto-eea-design-system.git#commit=510eb18af82ec08eb6bcd81c2dbf9cb87ccfb4ca"
   dependencies:
     "@eeacms/countup": "*"
     "@eeacms/volto-corsproxy": "*"
@@ -2169,7 +2169,7 @@ __metadata:
     react-slick: ^0.30.1
     remixicon: 4.6.0
     slick-carousel: ^1.8.1
-  checksum: 3c6c6547a96cdce723d3e92a206c0e38f6871233911bcf55defda1f3187ddd34af26cfd1ee083d3ecea7d92b76105b067555a5e64fa6be03d5da2c0454824b9d
+  checksum: 92d090af644e9cd55b93db8fce4cdae4c88f48e189475c33d2ad204b101d243bff92c3229ff9434b67fef303f548335d004ba31ea97e1eeca5d0d2f87844b7f8
   languageName: node
   linkType: hard
 
@@ -2222,16 +2222,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-website-theme@github:eea/volto-eea-website-theme#ad-usergroup-widget":
-  version: 3.6.1
-  resolution: "@eeacms/volto-eea-website-theme@https://github.com/eea/volto-eea-website-theme.git#commit=8cec7fcccd46f059770f4ce5d863fc9cf1b850a3"
+"@eeacms/volto-eea-website-theme@github:eea/volto-eea-website-theme#header-ttw":
+  version: 3.7.0
+  resolution: "@eeacms/volto-eea-website-theme@https://github.com/eea/volto-eea-website-theme.git#commit=4265a7b4f564aeef54aba45dd4080b9f1f77b8e9"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-group-block": "*"
     volto-subsites: "*"
-  checksum: c634cc252d366b37d310fed386855a29edbdf2f0aba79e0fe3ba4bb3f6fc0e15ecbb49f159b1b7c85c282064afea7abc1a5b3405bdbe642c165ce1cbeffef448
+  checksum: 2bf4898a0c3cc3ad0b0824312d53daa87fc3cb03ef4c627cee2e56c4983ce34d5c6739c90d97f132aafd38de43b1de379fc284522b41ef1419c7b5bd66fe80a8
   languageName: node
   linkType: hard
 
@@ -17988,7 +17988,7 @@ __metadata:
   resolution: "ied-frontend@workspace:."
   dependencies:
     "@eeacms/volto-eea-design-system": "github:eea/volto-eea-design-system#header-setting"
-    "@eeacms/volto-eea-kitkat": 27.1.2
+    "@eeacms/volto-eea-kitkat": 27.1.3
     "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#header-ttw"
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"

@@ -2169,7 +2169,7 @@ __metadata:
     react-slick: ^0.30.1
     remixicon: 4.6.0
     slick-carousel: ^1.8.1
-  checksum: 92d090af644e9cd55b93db8fce4cdae4c88f48e189475c33d2ad204b101d243bff92c3229ff9434b67fef303f548335d004ba31ea97e1eeca5d0d2f87844b7f8
+  checksum: e05248c92f9c6cd74885b5f41a16a54f53eb5f96dba63ada1863839ebc82bebdea9aaaa31e68905c00d16c6cba220c9e753a7bc70ca3b39c3bf4fa3a914abe34
   languageName: node
   linkType: hard
 
@@ -2231,7 +2231,7 @@ __metadata:
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-group-block": "*"
     volto-subsites: "*"
-  checksum: 2bf4898a0c3cc3ad0b0824312d53daa87fc3cb03ef4c627cee2e56c4983ce34d5c6739c90d97f132aafd38de43b1de379fc284522b41ef1419c7b5bd66fe80a8
+  checksum: 7eede4680df5c0f5d1d20543f89c90bf89b993e00c17f4598ffd9bdbc4259ac10c54644f6fd13e310fb88bbdc49bb49b4a2debc92e25d1f484168f2d04ac5b3d
   languageName: node
   linkType: hard
 
@@ -2258,7 +2258,7 @@ __metadata:
 "@eeacms/volto-group-block@github:eea/volto-group-block#move-restricted":
   version: 7.1.1
   resolution: "@eeacms/volto-group-block@https://github.com/eea/volto-group-block.git#commit=50b8c4bb0a590df3636b3f37e701992073ec0785"
-  checksum: 1d5483406caf40294f0b935af1cb385f8109e01f64554a2f4af9d297d58c53f936e64a862af86163d2c9b1cc8814e44ecfe9f6b06ed41185a7ea5c38849ad9ee
+  checksum: 6ae98aa65ee1388f7f4af87f76d6a31e48d9b1385d417529dcef7450e8784174e94615903da1bafc3c541207c4b2665aed9f601cbc47c0a04f6cda66c6d13a3d
   languageName: node
   linkType: hard
 
@@ -2396,11 +2396,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-searchlib@npm:2.0.13":
-  version: 2.0.13
-  resolution: "@eeacms/volto-searchlib@npm:2.0.13"
+"@eeacms/volto-searchlib@npm:2.1.0":
+  version: 2.1.0
+  resolution: "@eeacms/volto-searchlib@npm:2.1.0"
   dependencies:
-    "@eeacms/volto-eea-design-system": "*"
+    "@eeacms/volto-matomo": 5.0.0
     "@elastic/react-search-ui": 1.20.2
     "@elastic/react-search-ui-views": 1.20.2
     "@elastic/search-ui": 1.20.2
@@ -2436,7 +2436,7 @@ __metadata:
     superagent: 3.8.2
     svg-loader: 0.0.2
     use-deep-compare-effect: 1.8.1
-  checksum: feb8a38c192b91405619eb38aa81512075df56dbe352bd54186eca401969b342c33bb8d657cc9aff72c1b229e4d568db302db5977fcbd32f9bdc2ba4b8fcf69c
+  checksum: 4aece0ffff0e2b52ad3e9c9a0aaedb8aa87b065376039b4256df09a2705656917822d9700f061a72075e62aa771caefa72c1b8b09dc61ca7858a66bbd95dae54
   languageName: node
   linkType: hard
 
@@ -17994,7 +17994,7 @@ __metadata:
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
     "@eeacms/volto-ied-policy": 1.2.42
     "@eeacms/volto-plotlycharts": 12.0.8
-    "@eeacms/volto-searchlib": 2.0.13
+    "@eeacms/volto-searchlib": 2.1.0
     "@plone-collective/volto-authomatic": 2.0.1
     "@plone/scripts": ^3.3.2
     "@plone/volto": 17.20.4

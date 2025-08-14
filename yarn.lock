@@ -2158,9 +2158,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-design-system@github:eea/volto-eea-design-system#header-setting":
-  version: 1.37.0
-  resolution: "@eeacms/volto-eea-design-system@https://github.com/eea/volto-eea-design-system.git#commit=510eb18af82ec08eb6bcd81c2dbf9cb87ccfb4ca"
+"@eeacms/volto-eea-design-system@npm:1.37.2":
+  version: 1.37.2
+  resolution: "@eeacms/volto-eea-design-system@npm:1.37.2"
   dependencies:
     "@eeacms/countup": "*"
     "@eeacms/volto-corsproxy": "*"
@@ -2169,7 +2169,7 @@ __metadata:
     react-slick: ^0.30.1
     remixicon: 4.6.0
     slick-carousel: ^1.8.1
-  checksum: 92d090af644e9cd55b93db8fce4cdae4c88f48e189475c33d2ad204b101d243bff92c3229ff9434b67fef303f548335d004ba31ea97e1eeca5d0d2f87844b7f8
+  checksum: 3c6c6547a96cdce723d3e92a206c0e38f6871233911bcf55defda1f3187ddd34af26cfd1ee083d3ecea7d92b76105b067555a5e64fa6be03d5da2c0454824b9d
   languageName: node
   linkType: hard
 
@@ -2222,16 +2222,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-website-theme@github:eea/volto-eea-website-theme#header-ttw":
-  version: 3.7.0
-  resolution: "@eeacms/volto-eea-website-theme@https://github.com/eea/volto-eea-website-theme.git#commit=4265a7b4f564aeef54aba45dd4080b9f1f77b8e9"
+"@eeacms/volto-eea-website-theme@github:eea/volto-eea-website-theme#ad-usergroup-widget":
+  version: 3.6.1
+  resolution: "@eeacms/volto-eea-website-theme@https://github.com/eea/volto-eea-website-theme.git#commit=8cec7fcccd46f059770f4ce5d863fc9cf1b850a3"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-group-block": "*"
     volto-subsites: "*"
-  checksum: 2bf4898a0c3cc3ad0b0824312d53daa87fc3cb03ef4c627cee2e56c4983ce34d5c6739c90d97f132aafd38de43b1de379fc284522b41ef1419c7b5bd66fe80a8
+  checksum: b798c1d469d3bd886d3a8798684791a93144082d63e707961039e7f9bea9f70c1b0bca985e423f1774de97e96684b80f6767924aa72c02b988db04e35bd427aa
   languageName: node
   linkType: hard
 
@@ -2258,7 +2258,7 @@ __metadata:
 "@eeacms/volto-group-block@github:eea/volto-group-block#move-restricted":
   version: 7.1.1
   resolution: "@eeacms/volto-group-block@https://github.com/eea/volto-group-block.git#commit=50b8c4bb0a590df3636b3f37e701992073ec0785"
-  checksum: 1d5483406caf40294f0b935af1cb385f8109e01f64554a2f4af9d297d58c53f936e64a862af86163d2c9b1cc8814e44ecfe9f6b06ed41185a7ea5c38849ad9ee
+  checksum: 6ae98aa65ee1388f7f4af87f76d6a31e48d9b1385d417529dcef7450e8784174e94615903da1bafc3c541207c4b2665aed9f601cbc47c0a04f6cda66c6d13a3d
   languageName: node
   linkType: hard
 
@@ -2272,9 +2272,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.42":
-  version: 1.2.42
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.42"
+"@eeacms/volto-ied-policy@npm:1.2.43":
+  version: 1.2.43
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.43"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2290,7 +2290,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: 797513222d340670b0efde1ab4de5ef3fdb7337cd3e9bdde67543897a379b72ec5cfee5c7451125e06573e901d29d459a92820c66cbcffc0a2bc3708151afc1d
+  checksum: b232ce7844750bbc2ca7152249d5201338496a7ae69cda353e2e15ffc1372b1e182a63f7ce06313bf25e12406980e1b735218bb83139cef0b29ad3fc0a24251d
   languageName: node
   linkType: hard
 
@@ -17987,12 +17987,12 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ied-frontend@workspace:."
   dependencies:
-    "@eeacms/volto-eea-design-system": "github:eea/volto-eea-design-system#header-setting"
-    "@eeacms/volto-eea-kitkat": 27.1.3
-    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#header-ttw"
+    "@eeacms/volto-eea-design-system": 1.37.2
+    "@eeacms/volto-eea-kitkat": 27.1.2
+    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
-    "@eeacms/volto-ied-policy": 1.2.42
+    "@eeacms/volto-ied-policy": 1.2.43
     "@eeacms/volto-plotlycharts": 12.0.8
     "@eeacms/volto-searchlib": 2.0.13
     "@plone-collective/volto-authomatic": 2.0.1

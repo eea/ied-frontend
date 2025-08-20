@@ -2178,9 +2178,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-design-system@npm:1.37.2":
-  version: 1.37.2
-  resolution: "@eeacms/volto-eea-design-system@npm:1.37.2"
+"@eeacms/volto-eea-design-system@npm:1.39.0":
+  version: 1.39.0
+  resolution: "@eeacms/volto-eea-design-system@npm:1.39.0"
   dependencies:
     "@eeacms/countup": "*"
     "@eeacms/volto-corsproxy": "*"
@@ -2189,7 +2189,7 @@ __metadata:
     react-slick: ^0.30.1
     remixicon: 4.6.0
     slick-carousel: ^1.8.1
-  checksum: 3c6c6547a96cdce723d3e92a206c0e38f6871233911bcf55defda1f3187ddd34af26cfd1ee083d3ecea7d92b76105b067555a5e64fa6be03d5da2c0454824b9d
+  checksum: a5925a60d89eb883dd9f7f1b4bffc653c73ec341933f22c9c7f5ab6b8f12be03ad3b324ceeb4c3dbe903c5cae508fee2ae3c2b2e8383a429a999517e1d643257
   languageName: node
   linkType: hard
 
@@ -18032,7 +18032,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ied-frontend@workspace:."
   dependencies:
-    "@eeacms/volto-eea-design-system": 1.37.2
+    "@eeacms/volto-eea-design-system": 1.39.0
     "@eeacms/volto-eea-kitkat": 28.0.3
     "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
     "@eeacms/volto-globalsearch": 2.1.2

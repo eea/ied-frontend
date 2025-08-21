@@ -1948,9 +1948,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/react-chart-editor@npm:0.47.6":
-  version: 0.47.6
-  resolution: "@eeacms/react-chart-editor@npm:0.47.6"
+"@eeacms/react-chart-editor@npm:0.47.7":
+  version: 0.47.7
+  resolution: "@eeacms/react-chart-editor@npm:0.47.7"
   dependencies:
     "@eeacms/react-colorscales": 2.1.1
     "@plotly/draft-js-export-html": ^1.2.0
@@ -1979,7 +1979,7 @@ __metadata:
     plotly.js: ">=1.58.5 <3.0.0"
     react: ">=16"
     react-dom: ">=16"
-  checksum: ee5d12f835d37cf2a1e75049f9d235ea2047f0868e2888a4de8e11678a2444227c20852c0e54faa9d42d7a7306dd430f1a832b2c6def6737c0877c991d5227b5
+  checksum: 8238de3cc8aaff871f7bbdb3f7e83def9980f6b0140267fbeded433ad3ac8636428d5509996a3460cd38b851554655742f7401fafad13d267cbc1bdc5acd356b
   languageName: node
   linkType: hard
 
@@ -2400,11 +2400,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-plotlycharts@npm:13.0.5":
-  version: 13.0.5
-  resolution: "@eeacms/volto-plotlycharts@npm:13.0.5"
+"@eeacms/volto-plotlycharts@npm:13.0.6":
+  version: 13.0.6
+  resolution: "@eeacms/volto-plotlycharts@npm:13.0.6"
   dependencies:
-    "@eeacms/react-chart-editor": 0.47.6
+    "@eeacms/react-chart-editor": 0.47.7
     "@eeacms/volto-datablocks": "*"
     "@eeacms/volto-embed": "*"
     "@eeacms/volto-matomo": "*"
@@ -2413,8 +2413,9 @@ __metadata:
     jsoneditor: 10.2.0
     jszip: 3.10.1
     plotly.js: ^2.35.3
+    react-plotly.js: 2.6.0
     remixicon: 4.6.0
-  checksum: e20f0aa0d24fd7ada1ad00975abbdbd63d99385b6ddaef1db96700e3da835851307ed2c494aea10e05765bfc1b6b57631d6ce184d676b08537a75e62e6e98718
+  checksum: cadd000b491cd831799125338701dc5c1934063c1701815cced99ad7936e121ca6e9c93de012b550a88f3e88e8d52a0ffb05696e70594abd6902e161681568b0
   languageName: node
   linkType: hard
 
@@ -18038,7 +18039,7 @@ __metadata:
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
     "@eeacms/volto-ied-policy": 1.2.45
-    "@eeacms/volto-plotlycharts": 13.0.5
+    "@eeacms/volto-plotlycharts": 13.0.6
     "@eeacms/volto-searchlib": 2.0.13
     "@plone-collective/volto-authomatic": 2.0.1
     "@plone/scripts": ^3.3.2

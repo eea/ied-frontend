@@ -2,7 +2,7 @@
   "name": "ied-frontend",
   "description": "",
   "license": "MIT",
-  "version": "0.35.0",
+  "version": "0.36.0",
   "scripts": {
     "start": "razzle start",
     "postinstall": "make omelette && make patches",
@@ -168,7 +168,7 @@
     "@eeacms/volto-globalsearch": "2.1.2",
     "@plone-collective/volto-authomatic": "2.0.1",
     "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget",
-    "@plone-collective/volto-sentry": "github:collective/volto-sentry#ssr-errors",
+    "@plone-collective/volto-sentry": "github:collective/volto-sentry#enhance-ssr",
     "@eeacms/volto-object-widget": "8.0.0",
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted",
     "volto-subsites": "4.0.0",
@@ -190,7 +190,7 @@
     "@eeacms/volto-plotlycharts": "13.0.12",
     "@eeacms/volto-searchlib": "2.1.10",
     "@plone-collective/volto-authomatic": "2.0.1",
-    "@plone-collective/volto-sentry": "github:collective/volto-sentry#ssr-errors",
+    "@plone-collective/volto-sentry": "github:collective/volto-sentry#enhance-ssr",
     "@plone/volto": "17.20.4",
     "volto-subsites": "4.0.0"
   },

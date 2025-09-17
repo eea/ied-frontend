@@ -2339,29 +2339,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.45":
-  version: 1.2.45
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.45"
-  dependencies:
-    "@eeacms/volto-block-style": "*"
-    "@eeacms/volto-block-toc": "*"
-    "@eeacms/volto-datablocks": "*"
-    "@eeacms/volto-eea-design-system": "*"
-    "@eeacms/volto-eea-website-theme": "*"
-    "@eeacms/volto-openlayers-map": 0.3.2
-    "@eeacms/volto-resize-helper": "*"
-    "@eeacms/volto-spotlight": "*"
-    "@eeacms/volto-tableau": "*"
-    esri-loader: 3.7.0
-    plotly.js: ^2.28.0
-    react-highlight-words: 0.17.0
-    react-plotly.js: 2.6.0
-    react-tooltip: 4.2.21
-  checksum: e56c21499c6071dd0e5e2044f5e2f7127111d13ecbce2340eb1c0e2197f0bf1f05d05d9a6eb457e93da8ccdcea7486e167050805966f4b9c87887ba880fddd1b
-  languageName: node
-  linkType: hard
-
-"@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
+"@eeacms/volto-ied-policy@1.2.45, @eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy":
   version: 0.0.0-use.local
   resolution: "@eeacms/volto-ied-policy@workspace:src/addons/volto-ied-policy"
   dependencies:
@@ -4094,17 +4072,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@plone-collective/volto-sentry@github:collective/volto-sentry#ssr-errors":
-  version: 0.3.2
-  resolution: "@plone-collective/volto-sentry@https://github.com/collective/volto-sentry.git#commit=edc59e76d3a9380196f950ea6b5909211438e902"
+"@plone-collective/volto-sentry@github:collective/volto-sentry#enhance-ssr":
+  version: 0.3.1
+  resolution: "@plone-collective/volto-sentry@https://github.com/collective/volto-sentry.git#commit=4ae5d392d9a9c601b2909be9a33ce454a2d321ab"
   dependencies:
     "@sentry/browser": 7.15.0
     "@sentry/integrations": 7.15.0
     "@sentry/node": 7.15.0
     "@sentry/webpack-plugin": 1.19.1
-  checksum: 74b91d0ad9dcecdaaecddeaf92d31bc62705e7af8fd6102d43fad785e270195989a719957389e80f11ddc3305875439b2530cb19c9404e5abb489a6f4d599f23
+  checksum: fd57a16289c46b69270416996c66ec8b557535cc5875982e1fc28b45750e5740530caf0965d02bb51cf9748eb1227e8be1f7e370253ad1f30880ecd28a4b93ed
   languageName: node
   linkType: hard
+
+"@plone-collective/volto-sentry@workspace:src/addons/volto-sentry":
+  version: 0.0.0-use.local
+  resolution: "@plone-collective/volto-sentry@workspace:src/addons/volto-sentry"
+  dependencies:
+    "@plone/scripts": "*"
+    "@sentry/browser": 7.15.0
+    "@sentry/integrations": 7.15.0
+    "@sentry/node": 7.15.0
+    "@sentry/webpack-plugin": 1.19.1
+  languageName: unknown
+  linkType: soft
 
 "@plone/scripts@npm:*, @plone/scripts@npm:^3.3.2":
   version: 3.10.1
@@ -18445,7 +18435,7 @@ __metadata:
     "@eeacms/volto-plotlycharts": 13.0.12
     "@eeacms/volto-searchlib": 2.1.10
     "@plone-collective/volto-authomatic": 2.0.1
-    "@plone-collective/volto-sentry": "github:collective/volto-sentry#ssr-errors"
+    "@plone-collective/volto-sentry": "github:collective/volto-sentry#enhance-ssr"
     "@plone/scripts": ^3.3.2
     "@plone/volto": 17.20.4
     "@storybook/addon-actions": ^6.3.0

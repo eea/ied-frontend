@@ -28,6 +28,9 @@
             ],
             "@eeacms/volto-ied-policy": [
                 "addons/volto-ied-policy/src"
+            ],
+            "@plone-collective/volto-sentry": [
+                "addons/volto-sentry/src"
             ]
         },
         "baseUrl": "src"

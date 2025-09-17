@@ -2452,15 +2452,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-object-widget@npm:*":
-  version: 7.0.0
-  resolution: "@eeacms/volto-object-widget@npm:7.0.0"
-  dependencies:
-    "@eeacms/volto-resize-helper": "*"
-  checksum: a6c6e03d339de51e79e83731332e340678afd8e08303da5bce954d80cd6f04c2945ee70efaf6a7bb811327a1388c1a46f5f35013a13c1ea02c73fd4eb8b32879
-  languageName: node
-  linkType: hard
-
 "@eeacms/volto-object-widget@npm:8.0.0":
   version: 8.0.0
   resolution: "@eeacms/volto-object-widget@npm:8.0.0"
@@ -18450,6 +18441,7 @@ __metadata:
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-group-block": "github:eea/volto-group-block#move-restricted"
     "@eeacms/volto-ied-policy": 1.2.45
+    "@eeacms/volto-object-widget": 8.0.0
     "@eeacms/volto-plotlycharts": 13.0.12
     "@eeacms/volto-searchlib": 2.1.10
     "@plone-collective/volto-authomatic": 2.0.1

@@ -191,7 +191,7 @@
     "@eeacms/volto-searchlib": "2.1.10",
     "@plone-collective/volto-authomatic": "2.0.1",
     "@plone-collective/volto-sentry": "github:collective/volto-sentry#enhance-ssr",
-    "@plone/volto": "17.20.4",
+    "@plone/volto": "17.22.3",
     "volto-subsites": "4.0.0"
   },
   "devDependencies": {

@@ -167,7 +167,7 @@
     "@eeacms/volto-searchlib": "2.1.10",
     "@eeacms/volto-globalsearch": "2.1.2",
     "@plone-collective/volto-authomatic": "2.0.1",
-    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget",
+    "@eeacms/volto-eea-website-theme": "3.15.0",
     "@eeacms/volto-object-widget": "8.0.0",
     "volto-subsites": "4.0.0",
     "react": "17.0.2",

@@ -2300,9 +2300,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.46":
-  version: 1.2.46
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.46"
+"@eeacms/volto-ied-policy@npm:1.2.47":
+  version: 1.2.47
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.47"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2318,7 +2318,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: 4a0cb7a18a45e9d71aaa37f48102fb0465c94a18cd721af630b5da684a7df122f1d781682ded0957388127ffafc59a9b18d08161f097707ca07c243e8ea053a7
+  checksum: ebcf5d127b00cf1fdccb23df771983b8eb1f8054a5b3d2b1a83037301c08411caaa9fbfd3581c20d4701137bec2fbf3de07f153660319dc072b843b7b517b8ba
   languageName: node
   linkType: hard
 
@@ -18063,7 +18063,7 @@ __metadata:
     "@eeacms/volto-eea-kitkat": 29.0.1
     "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
     "@eeacms/volto-globalsearch": 2.1.2
-    "@eeacms/volto-ied-policy": 1.2.46
+    "@eeacms/volto-ied-policy": 1.2.47
     "@eeacms/volto-object-widget": 8.0.0
     "@eeacms/volto-plotlycharts": 13.3.7
     "@eeacms/volto-searchlib": 2.1.10

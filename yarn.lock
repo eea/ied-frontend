@@ -2250,16 +2250,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-website-theme@github:eea/volto-eea-website-theme#ad-usergroup-widget":
-  version: 3.6.1
-  resolution: "@eeacms/volto-eea-website-theme@https://github.com/eea/volto-eea-website-theme.git#commit=8cec7fcccd46f059770f4ce5d863fc9cf1b850a3"
+"@eeacms/volto-eea-website-theme@npm:3.15.0":
+  version: 3.15.0
+  resolution: "@eeacms/volto-eea-website-theme@npm:3.15.0"
   dependencies:
+    "@eeacms/volto-anchors": "*"
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
     "@eeacms/volto-eea-design-system": "*"
     "@eeacms/volto-group-block": "*"
     volto-subsites: "*"
-  checksum: b798c1d469d3bd886d3a8798684791a93144082d63e707961039e7f9bea9f70c1b0bca985e423f1774de97e96684b80f6767924aa72c02b988db04e35bd427aa
+  checksum: 734d4d1302bbdcd6f3e2d97c7c29d45e9b88f19e82fda7ac9f0edc6e12aa41dfb8d18e9dd2cce47089c9c4fed74c9861dad1bd83a48f8249aa3a22904a63a054
   languageName: node
   linkType: hard
 
@@ -18068,7 +18069,7 @@ __metadata:
   dependencies:
     "@eeacms/volto-eea-design-system": 1.40.0
     "@eeacms/volto-eea-kitkat": 30.0.0
-    "@eeacms/volto-eea-website-theme": "github:eea/volto-eea-website-theme#ad-usergroup-widget"
+    "@eeacms/volto-eea-website-theme": 3.15.0
     "@eeacms/volto-globalsearch": 2.1.2
     "@eeacms/volto-ied-policy": 1.2.47
     "@eeacms/volto-object-widget": 8.0.0

@@ -2175,9 +2175,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-eea-design-system@npm:1.40.1":
-  version: 1.40.1
-  resolution: "@eeacms/volto-eea-design-system@npm:1.40.1"
+"@eeacms/volto-eea-design-system@npm:1.40.2":
+  version: 1.40.2
+  resolution: "@eeacms/volto-eea-design-system@npm:1.40.2"
   dependencies:
     "@eeacms/countup": "*"
     "@eeacms/volto-corsproxy": "*"
@@ -2186,7 +2186,7 @@ __metadata:
     react-slick: ^0.30.1
     remixicon: 4.6.0
     slick-carousel: ^1.8.1
-  checksum: 18719a8e918d00e0a13462716d3122e553eb6b494f5024a7ba2b0d2fe827e939cf517b8c39b7e760da39727943200a2f5dd0b123020c9852d2f3b801ceaf4366
+  checksum: d7d46c59fe57db6174cdfe1d4a56a920c4bede1db3526d57b73f2ecfdfa6351aa21f34e5c3d575e6a6c211c95db58577e8d0d81556f6bfe54aabba2e1c93eb2e
   languageName: node
   linkType: hard
 
@@ -2290,9 +2290,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.49":
-  version: 1.2.49
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.49"
+"@eeacms/volto-ied-policy@npm:1.2.51":
+  version: 1.2.51
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.51"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2308,7 +2308,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: 193aa0dae9510c0c80ab7d5388aabc4883a5e636488b8276a8fcea9f2e2505d5eceee7593acb982d0dda44819a0860ff86d6ee030c77ffebc884443eb3f11a90
+  checksum: 81ebd0493a7eaeebd7b1c451f9318cb49117e3cf4774c8a8bfe113fb92021b2eef4ec7308b992e45a203725098e787445e820482846debee8d495b9ad147230c
   languageName: node
   linkType: hard
 
@@ -18142,11 +18142,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ied-frontend@workspace:."
   dependencies:
-    "@eeacms/volto-eea-design-system": 1.40.1
+    "@eeacms/volto-eea-design-system": 1.40.2
     "@eeacms/volto-eea-kitkat": 30.1.0
     "@eeacms/volto-eea-website-theme": 3.16.0
     "@eeacms/volto-globalsearch": 2.1.2
-    "@eeacms/volto-ied-policy": 1.2.49
+    "@eeacms/volto-ied-policy": 1.2.51
     "@eeacms/volto-object-widget": 8.0.0
     "@eeacms/volto-plotlycharts": 13.3.7
     "@eeacms/volto-searchlib": 2.1.10

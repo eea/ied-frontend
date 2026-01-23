@@ -2311,9 +2311,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-ied-policy@npm:1.2.52":
-  version: 1.2.52
-  resolution: "@eeacms/volto-ied-policy@npm:1.2.52"
+"@eeacms/volto-ied-policy@npm:1.2.53":
+  version: 1.2.53
+  resolution: "@eeacms/volto-ied-policy@npm:1.2.53"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2329,7 +2329,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: eacccfda911eb78f81bbb231512b7db9351ddddb37de31d2a340bb0c4b2c7603d5b66b69988b8ba8b6ee1d207cbf59a06b5bd95cf9e59b76a2b1fcc607216d17
+  checksum: 031f9f31af6a80aa85dd517957a2e0d353b7557fe563b73ae698dbdf97f8e971d37c31772ebca477ca0644d226bec6ae42b8689978be98c660edbab6fa073c75
   languageName: node
   linkType: hard
 
@@ -18168,7 +18168,7 @@ __metadata:
     "@eeacms/volto-eea-kitkat": 30.1.0
     "@eeacms/volto-eea-website-theme": 3.18.1
     "@eeacms/volto-globalsearch": 2.1.2
-    "@eeacms/volto-ied-policy": 1.2.52
+    "@eeacms/volto-ied-policy": 1.2.53
     "@eeacms/volto-object-widget": 8.0.0
     "@eeacms/volto-plotlycharts": 13.3.7
     "@eeacms/volto-searchlib": 3.0.0

@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
     "module": "commonjs",
     "allowJs": true,
     "skipLibCheck": true,
@@ -15,12 +19,29 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "paths": {
-      "@plone/volto/*": ["../node_modules/@plone/volto/src/*", "../node_modules/@plone/volto/types/*"],
-      "@root/*": ["."],
-      "@eeacms/volto-ied-policy": ["addons/volto-ied-policy/src"]
+      "@plone/volto/*": [
+        "../node_modules/@plone/volto/src/*",
+        "../node_modules/@plone/volto/types/*"
+      ],
+      "@root/*": [
+        "."
+      ],
+      "@eeacms/volto-ied-policy": [
+        "addons/volto-ied-policy/src"
+      ]
     },
     "baseUrl": "src"
   },
-  "include": ["src"],
-  "exclude": ["node_modules", "build", "public", "coverage", "src/**/*.test.{js,jsx,ts,tsx}", "src/**/*.spec.{js,jsx,ts,tsx}", "src/**/*.stories.{js,jsx,ts,tsx}"]
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "build",
+    "public",
+    "coverage",
+    "src/**/*.test.{js,jsx,ts,tsx}",
+    "src/**/*.spec.{js,jsx,ts,tsx}",
+    "src/**/*.stories.{js,jsx,ts,tsx}"
+  ]
 }

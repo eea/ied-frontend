@@ -55,7 +55,6 @@
     "@eeacms/volto-searchlib",
     "@eeacms/volto-plotlycharts",
     "@eeacms/volto-ied-policy",
-    "@eeacms/volto-chatbot",
     "volto-subsites",
     "@plone-collective/volto-authomatic",
     "@eeacms/volto-eea-website-theme"
@@ -173,7 +172,6 @@
     "@plone-collective/volto-authomatic": "2.0.1",
     "@eeacms/volto-eea-website-theme": "3.19.1",
     "@eeacms/volto-object-widget": "8.0.0",
-    "@eeacms/volto-chatbot": "^0.6.1",
     "volto-subsites": "4.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",

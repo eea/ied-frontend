@@ -2361,10 +2361,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eeacms/volto-object-widget@npm:9.0.0":
-  version: 9.0.0
-  resolution: "@eeacms/volto-object-widget@npm:9.0.0"
-  checksum: d9275b975900e9845515ce30081929a5be9e8e42008b08fbdc0c6fda8b01a74a2daf56aa959d0e55d3693310cecc8fb92508bb59878ab2386e723ae8a3cef939
+"@eeacms/volto-object-widget@npm:9.0.1":
+  version: 9.0.1
+  resolution: "@eeacms/volto-object-widget@npm:9.0.1"
+  checksum: 49febb916b64d77d9984ad52b49254723caca3acf3c2c129df94e677095a2d275862b9294362db3044f8a1645b559ba92d7a570491aff9eed4713b28a89ddb26
   languageName: node
   linkType: hard
 
@@ -17957,7 +17957,7 @@ __metadata:
     "@eeacms/volto-eea-website-theme": 4.0.3
     "@eeacms/volto-globalsearch": 4.0.1
     "@eeacms/volto-ied-policy": 1.2.54
-    "@eeacms/volto-object-widget": 9.0.0
+    "@eeacms/volto-object-widget": 9.0.1
     "@eeacms/volto-plotlycharts": 14.0.0
     "@eeacms/volto-searchlib": ^2.1.10
     "@eeacms/volto-slate-dataentity": 4.0.2

@@ -170,7 +170,7 @@
     "@eeacms/volto-globalsearch": "4.0.1",
     "@eeacms/volto-slate-dataentity": "5.0.0",
     "@plone-collective/volto-authomatic": "2.0.1",
-    "@eeacms/volto-eea-website-theme": "4.1.1",
+    "@eeacms/volto-eea-website-theme": "4.2.0",
     "@eeacms/volto-object-widget": "9.1.0",
     "volto-subsites": "4.0.0",
     "react": "17.0.2",
@@ -183,7 +183,7 @@
   "dependencies": {
     "@eeacms/volto-eea-design-system": "1.60.1",
     "@eeacms/volto-eea-kitkat": "33.0.1",
-    "@eeacms/volto-eea-website-theme": "4.1.1",
+    "@eeacms/volto-eea-website-theme": "4.2.0",
     "@eeacms/volto-globalsearch": "4.0.1",
     "@eeacms/volto-ied-policy": "1.2.54",
     "@eeacms/volto-object-widget": "9.1.0",

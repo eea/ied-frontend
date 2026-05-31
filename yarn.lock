@@ -2353,7 +2353,7 @@ __metadata:
 
 "@eeacms/volto-datablocks@github:eea/volto-datablocks#optimizations":
   version: 8.0.2
-  resolution: "@eeacms/volto-datablocks@https://github.com/eea/volto-datablocks.git#commit=15c7875499aff95ec7f2503abd8d05e319928543"
+  resolution: "@eeacms/volto-datablocks@https://github.com/eea/volto-datablocks.git#commit=4ddf4a5e980e073c6c3c04a908a04ec5f58dadf8"
   dependencies:
     "@eeacms/countup": "*"
     "@eeacms/volto-embed": "*"
@@ -2365,7 +2365,7 @@ __metadata:
     object-hash: 2.2.0
     react-visibility-sensor: 5.1.1
     sanitize-html: 2.12.1
-  checksum: e87c5d04a9a53905be4bc5f7ab476b47b09dc1bdbab657f98447ee64a4582b9ffbd0997f2c582ab78ca57580663a0484db4b4734e721449c232fea27b1dfc3b7
+  checksum: 4e6e1e6ee677db053fc46b75637c6e652cec659228f7f688682f722bc0ead59cbd055dc36a054e2218ce5646cfaccc2fca62c8ed683c10b0df155b2673b74d6d
   languageName: node
   linkType: hard
 
@@ -2707,10 +2707,10 @@ __metadata:
 
 "@eeacms/volto-slate-dataentity@github:eea/volto-slate-dataentity#optimizations":
   version: 5.0.0
-  resolution: "@eeacms/volto-slate-dataentity@https://github.com/eea/volto-slate-dataentity.git#commit=bf8549d1adf0d6996df4bae80e94307bf24b50c5"
+  resolution: "@eeacms/volto-slate-dataentity@https://github.com/eea/volto-slate-dataentity.git#commit=fcdf92f6db91a45944de774315c367ba99dbfdc3"
   dependencies:
     "@eeacms/volto-datablocks": "*"
-  checksum: 48d8ee7fff5de74358bd23480fad999bead1b1587268fcc3a4e100f39eca9522ff42c242a503aa50b4004d807d1e21c58da6d7c76e7db0d018c3f0b14ddd1724
+  checksum: b365f5fdb22a194f25c772e0232ab0dbe01978283e44de3f2fe148c763c0b60ca4c2958dd487a6e31d67f9930b800ff0107d1eb87a7be444ad02b131b9543c9a
   languageName: node
   linkType: hard
 

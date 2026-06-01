@@ -2539,7 +2539,7 @@ __metadata:
 
 "@eeacms/volto-ied-policy@github:eea/volto-ied-policy#develop":
   version: 1.2.54
-  resolution: "@eeacms/volto-ied-policy@https://github.com/eea/volto-ied-policy.git#commit=1d4d35dd7dc6129dd01b02c26a05effacde55feb"
+  resolution: "@eeacms/volto-ied-policy@https://github.com/eea/volto-ied-policy.git#commit=fda7b6a70548c9e963d824b3f3122c906a0100da"
   dependencies:
     "@eeacms/volto-block-style": "*"
     "@eeacms/volto-block-toc": "*"
@@ -2555,7 +2555,7 @@ __metadata:
     react-highlight-words: 0.17.0
     react-plotly.js: 2.6.0
     react-tooltip: 4.2.21
-  checksum: 09c1abb92ae895f201b833ce4b0265bc3f16143923fe2a8881536ab3b03879fba79a47cb4b11d5bae8ee4bc34e49260203c44a8aaa46a768e809ea22cf8a5557
+  checksum: afaa91b71b94a25c44653aa921671c9fafe5a48d3d6ab3a7542fb53b5ad52b408fc0856a0e5a1a40a4d43cd7ab827fd73fcc686fffa819c7cd302b1ec03c7ab2
   languageName: node
   linkType: hard
 

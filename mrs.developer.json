@@ -1,10 +1,34 @@
 {
+  "volto-datablocks": {
+    "url": "git@github.com:eea/volto-datablocks.git",
+    "https": "https://github.com/eea/volto-datablocks.git",
+    "package": "@eeacms/volto-datablocks",
+    "branch": "develop",
+    "develop": false,
+    "path": "src"
+  },
+  "volto-slate-dataentity": {
+    "url": "git@github.com:eea/volto-slate-dataentity.git",
+    "https": "https://github.com/eea/volto-slate-dataentity.git",
+    "package": "@eeacms/volto-slate-dataentity",
+    "branch": "develop",
+    "develop": false,
+    "path": "src"
+  },
   "volto-ied-policy": {
     "url": "git@github.com:eea/volto-ied-policy.git",
     "https": "https://github.com/eea/volto-ied-policy.git",
     "package": "@eeacms/volto-ied-policy",
     "branch": "develop",
-    "develop": true,
+    "develop": false,
+    "path": "src"
+  },
+  "volto-openlayers-map": {
+    "url": "git@github.com:eea/volto-openlayers-map.git",
+    "https": "https://github.com/eea/volto-openlayers-map.git",
+    "package": "@eeacms/volto-openlayers-map",
+    "branch": "develop",
+    "develop": false,
     "path": "src"
   }
 }
